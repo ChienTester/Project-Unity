@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8901771a9cd438044a616793de272c34, type: 3}
+  m_Name: Clover
+  m_EditorClassIdentifier: 
+  accessoryType: 4
+  accessorySprite: {fileID: 21300000, guid: 524497b4b83cb0c4ea77543932243d3a, type: 3}
+  description: Character gets 20% luckier
